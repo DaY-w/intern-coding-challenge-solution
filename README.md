@@ -1,1 +1,0 @@
-# intern-coding-challenge-solution
